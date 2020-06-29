@@ -8,3 +8,7 @@ Anakin Skywalker war ein Jedi-Ritter, der von Obi-Wan Kenobi ausgebildet wurde. 
 * schwarze Uniform
 * Maske und das besondere Atmen wurde zum Markenzeichen
 * rettete seinen Sohn Luke vor der dunklen Seite der Macht
+
+Darth Vader sagte:
+> Die Macht ist mit dir, junger Skywalker. 
+> Aber noch bist du kein Jedi.
