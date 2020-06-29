@@ -12,3 +12,5 @@ Anakin Skywalker war ein Jedi-Ritter, der von Obi-Wan Kenobi ausgebildet wurde. 
 Darth Vader sagte:
 > Die Macht ist mit dir, junger Skywalker. 
 > Aber noch bist du kein Jedi.
+
+<img src="https://cdn.pixabay.com/photo/2019/07/22/10/11/darth-vader-4354735_960_720.jpg"/>
